@@ -122,7 +122,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 - [Ollama](https://ollama.ai) - Local LLM inference
 - [fast-whisper](https://github.com/guillaumekln/faster-whisper) - Speech recognition
-- [Kokoro](https://github.com/PolyAI-LDN/kokoro](https://github.com/hexgrad/kokoro) - Text-to-speech
+- [Kokoro](https://github.com/hexgrad/kokoro) - Text-to-speech
 
 ---
 
