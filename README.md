@@ -23,7 +23,7 @@
 
 ```bash
 # Clone the repository
-git [clone https://github.com/yourusername/r1thoughts.git](https://github.com/rodgersmag/Ramses---Uncensored-Voice-Assistant-Your-Voice-Your-Rules)
+git clone https://github.com/rodgersmag/Ramses---Uncensored-Voice-Assistant-Your-Voice-Your-Rules
 cd Ramses---Uncensored-Voice-Assistant-Your-Voice-Your-Rules
 
 # Set up virtual environment
@@ -39,10 +39,7 @@ ollama pull goekdenizguelmez/JOSIEFIED-Qwen2.5:3b
 
 ## Usage
 
-1. Ensure Ollama is running on your machine:
-   ```
-   ollama serve
-   ```
+1. Ensure Ollama is running on your machine
 
 2. Run the application:
    ```
@@ -112,6 +109,12 @@ The application uses several threading mechanisms to handle concurrent operation
 The application leverages multi-threading to manage audio playback, TTS generation, and speech recognition concurrently. It also implements signal handling for graceful termination.
 
 ## 📜 License
+
+# AS IS License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. The user is solely responsible for any outcomes or issues that arise from the use of this Software.
 
 Distributed under the AS IS License. See `LICENSE` for more information.
 
