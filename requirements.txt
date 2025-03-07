@@ -1,0 +1,12 @@
+
+pygame
+termcolor
+faster_whisper 
+PyAudio
+webrtcvad
+pytz 
+pysoundfile
+kokoro
+huggingface-hub 
+setuptools
+ollama
