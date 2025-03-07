@@ -1,5 +1,7 @@
 # Ramses - Voice Conversation AI Assistant 🎙️
 
+![Ramses](Ramses.webp)
+
 > A voice-based AI assistant that turns your conversations into seamless interactions using offline speech recognition and local LLM capabilities.
 
 ## ✨ Features
